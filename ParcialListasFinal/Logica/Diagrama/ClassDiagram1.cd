@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logica.MovimientosClass">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAkBAAAgEBAAAAAAEAAgQAAIAAAA=</HashCode>
+      <FileName>Clases\MovimientosClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.SociosClass" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAIAAGAAgAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Clases\SociosClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.ListadoSociosClass" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACAAQAAAAAAEBAAgAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Procedimientos\ListadoSociosClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.ConceptosClass" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAEAAgAAAAAAAI=</HashCode>
+      <FileName>Clases\ConceptosClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.ListadoConceptosClass">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAACAAQAEAAAAABAAgAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Procedimientos\ListadoConceptosClass.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

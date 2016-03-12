@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65D83B25-475A-41CE-89A3-56C44D095A6A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>Parcial</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Parcial.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Parcial.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v13.1.UI, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Snap.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v13.1.Core, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Snap.v13.1.Extensions, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v13.1.UI, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v13.1.UI, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v13.1.Wizard, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v13.1.Extensions, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v13.1, Version=13.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consultas\ListaDeMovimientosPorValor.Designer.vb">
+      <DependentUpon>ListaDeMovimientosPorValor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\ListaDeMovimientosPorValor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Listadodecocios.Designer.vb">
+      <DependentUpon>Listadodecocios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Listadodecocios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\ListadoDeMovimientoPorFecha.Designer.vb">
+      <DependentUpon>ListadoDeMovimientoPorFecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\ListadoDeMovimientoPorFecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\ListadoDeSociosGeneral.Designer.vb">
+      <DependentUpon>ListadoDeSociosGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\ListadoDeSociosGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\Listadoingresosyegresosporfecha.Designer.vb">
+      <DependentUpon>Listadoingresosyegresosporfecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\Listadoingresosyegresosporfecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\ListadoIngresosYEgresosvb.Designer.vb">
+      <DependentUpon>ListadoIngresosYEgresosvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\ListadoIngresosYEgresosvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\MovimientosPorCedula.Designer.vb">
+      <DependentUpon>MovimientosPorCedula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\MovimientosPorCedula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\MovimientosPorConcepto.Designer.vb">
+      <DependentUpon>MovimientosPorConcepto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\MovimientosPorConcepto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\MovimientosPorSocio.Designer.vb">
+      <DependentUpon>MovimientosPorSocio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\MovimientosPorSocio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Conceptos.Designer.vb">
+      <DependentUpon>Conceptos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Conceptos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Consultas.Designer.vb">
+      <DependentUpon>Consultas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Consultas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo Publico\Listados.vb" />
+    <Compile Include="Formularios\Movimientos.Designer.vb">
+      <DependentUpon>Movimientos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Movimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Formularios\Socios.Designer.vb">
+      <DependentUpon>Socios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Socios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Consultas\ListaDeMovimientosPorValor.resx">
+      <DependentUpon>ListaDeMovimientosPorValor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Listadodecocios.resx">
+      <DependentUpon>Listadodecocios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\ListadoDeMovimientoPorFecha.resx">
+      <DependentUpon>ListadoDeMovimientoPorFecha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\ListadoDeSociosGeneral.resx">
+      <DependentUpon>ListadoDeSociosGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\Listadoingresosyegresosporfecha.resx">
+      <DependentUpon>Listadoingresosyegresosporfecha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\ListadoIngresosYEgresosvb.resx">
+      <DependentUpon>ListadoIngresosYEgresosvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\MovimientosPorCedula.resx">
+      <DependentUpon>MovimientosPorCedula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\MovimientosPorConcepto.resx">
+      <DependentUpon>MovimientosPorConcepto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\MovimientosPorSocio.resx">
+      <DependentUpon>MovimientosPorSocio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Conceptos.resx">
+      <DependentUpon>Conceptos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Consultas.resx">
+      <DependentUpon>Consultas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Movimientos.resx">
+      <DependentUpon>Movimientos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Socios.resx">
+      <DependentUpon>Socios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logica\Logica.vbproj">
+      <Project>{F8BBA7C0-ADF9-4A8A-AC7B-A7B4A2A653B8}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

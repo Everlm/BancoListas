@@ -1,0 +1,49 @@
+C:\Users\EverL\Desktop\Parcial\Logica\obj\x86\Debug\Logica.Resources.resources
+C:\Users\EverL\Desktop\Parcial\Logica\obj\x86\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\EverL\Desktop\Parcial\Logica\bin\Debug\Logica.exe
+C:\Users\EverL\Desktop\Parcial\Logica\bin\Debug\Logica.pdb
+C:\Users\EverL\Desktop\Parcial\Logica\bin\Debug\Logica.xml
+C:\Users\EverL\Desktop\Parcial\Logica\obj\x86\Debug\Logica.exe
+C:\Users\EverL\Desktop\Parcial\Logica\obj\x86\Debug\Logica.xml
+C:\Users\EverL\Desktop\Parcial\Logica\obj\x86\Debug\Logica.pdb
+D:\Parcial\Logica\bin\Debug\Logica.exe
+D:\Parcial\Logica\bin\Debug\Logica.pdb
+D:\Parcial\Logica\bin\Debug\Logica.xml
+D:\Parcial\Logica\obj\x86\Debug\Logica.Resources.resources
+D:\Parcial\Logica\obj\x86\Debug\Logica.vbproj.GenerateResource.Cache
+D:\Parcial\Logica\obj\x86\Debug\Logica.exe
+D:\Parcial\Logica\obj\x86\Debug\Logica.xml
+D:\Parcial\Logica\obj\x86\Debug\Logica.pdb
+C:\Users\EverL\Desktop\ParcialFinal\Logica\bin\Debug\Logica.exe
+C:\Users\EverL\Desktop\ParcialFinal\Logica\bin\Debug\Logica.pdb
+C:\Users\EverL\Desktop\ParcialFinal\Logica\bin\Debug\Logica.xml
+C:\Users\EverL\Desktop\ParcialFinal\Logica\obj\x86\Debug\Logica.Resources.resources
+C:\Users\EverL\Desktop\ParcialFinal\Logica\obj\x86\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\EverL\Desktop\ParcialFinal\Logica\obj\x86\Debug\Logica.exe
+C:\Users\EverL\Desktop\ParcialFinal\Logica\obj\x86\Debug\Logica.xml
+C:\Users\EverL\Desktop\ParcialFinal\Logica\obj\x86\Debug\Logica.pdb
+C:\Users\EverL\Desktop\ParcialListasFinal\Logica\bin\Debug\Logica.exe
+C:\Users\EverL\Desktop\ParcialListasFinal\Logica\bin\Debug\Logica.pdb
+C:\Users\EverL\Desktop\ParcialListasFinal\Logica\bin\Debug\Logica.xml
+C:\Users\EverL\Desktop\ParcialListasFinal\Logica\obj\x86\Debug\Logica.Resources.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Logica\obj\x86\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\EverL\Desktop\ParcialListasFinal\Logica\obj\x86\Debug\Logica.exe
+C:\Users\EverL\Desktop\ParcialListasFinal\Logica\obj\x86\Debug\Logica.xml
+C:\Users\EverL\Desktop\ParcialListasFinal\Logica\obj\x86\Debug\Logica.pdb
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Logica\bin\Debug\Logica.exe
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Logica\bin\Debug\Logica.pdb
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Logica\bin\Debug\Logica.xml
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Logica\obj\x86\Debug\Logica.Resources.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Logica\obj\x86\Debug\Logica.vbproj.GenerateResource.Cache
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Logica\obj\x86\Debug\Logica.exe
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Logica\obj\x86\Debug\Logica.xml
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Logica\obj\x86\Debug\Logica.pdb
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\bin\Debug\Logica.exe
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\bin\Debug\Logica.pdb
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\bin\Debug\Logica.xml
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\obj\x86\Debug\Logica.Resources.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\obj\x86\Debug\Logica.vbproj.GenerateResource.Cache
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\obj\x86\Debug\Logica.exe
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\obj\x86\Debug\Logica.xml
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\obj\x86\Debug\Logica.pdb
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Logica\obj\x86\Debug\Logica.vbprojResolveAssemblyReference.cache

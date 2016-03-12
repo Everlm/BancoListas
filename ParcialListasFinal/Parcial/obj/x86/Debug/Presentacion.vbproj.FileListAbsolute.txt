@@ -1,0 +1,182 @@
+C:\Users\EverL\Desktop\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\EverL\Desktop\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\EverL\Desktop\Parcial\Parcial\bin\Debug\Parcial.xml
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\Parcial.exe
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\Parcial.xml
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\Parcial.pdb
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Menu.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Movimientos.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Socios.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\bin\Debug\Logica.exe
+C:\Users\EverL\Desktop\Parcial\Parcial\bin\Debug\Logica.pdb
+C:\Users\EverL\Desktop\Parcial\Parcial\bin\Debug\Logica.xml
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Conceptos.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Listadodecocios.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Consultas.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Listadoingresosyegresosporfecha.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoIngresosYEgresosvb.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeSociosGeneral.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeMovimientoPorFecha.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListaDeMovimientosPorValor.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorCedula.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorSocio.resources
+C:\Users\EverL\Desktop\Parcial\Parcial\obj\x86\Debug\Parcial.exe.licenses
+D:\Parcial\Parcial\obj\x86\Debug\Parcial.exe
+D:\Parcial\Parcial\obj\x86\Debug\Parcial.xml
+D:\Parcial\Parcial\obj\x86\Debug\Parcial.pdb
+D:\Parcial\Parcial\bin\Debug\Parcial.exe
+D:\Parcial\Parcial\bin\Debug\Parcial.pdb
+D:\Parcial\Parcial\bin\Debug\Parcial.xml
+D:\Parcial\Parcial\bin\Debug\Logica.exe
+D:\Parcial\Parcial\bin\Debug\Logica.pdb
+D:\Parcial\Parcial\bin\Debug\Logica.xml
+D:\Parcial\Parcial\obj\x86\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListaDeMovimientosPorValor.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Listadodecocios.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeMovimientoPorFecha.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeSociosGeneral.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Listadoingresosyegresosporfecha.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoIngresosYEgresosvb.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorCedula.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorSocio.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Conceptos.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Consultas.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Menu.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Movimientos.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Socios.resources
+D:\Parcial\Parcial\obj\x86\Debug\Presentacion.vbproj.GenerateResource.Cache
+D:\Parcial\Parcial\obj\x86\Debug\Parcial.exe.licenses
+E:\Parcial\Parcial\obj\x86\Debug\Parcial.exe
+E:\Parcial\Parcial\obj\x86\Debug\Parcial.xml
+E:\Parcial\Parcial\obj\x86\Debug\Parcial.pdb
+E:\Parcial\Parcial\bin\Debug\Parcial.exe
+E:\Parcial\Parcial\bin\Debug\Parcial.pdb
+E:\Parcial\Parcial\bin\Debug\Parcial.xml
+E:\Parcial\Parcial\bin\Debug\Logica.exe
+E:\Parcial\Parcial\bin\Debug\Logica.pdb
+E:\Parcial\Parcial\bin\Debug\Logica.xml
+E:\Parcial\Parcial\obj\x86\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListaDeMovimientosPorValor.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Listadodecocios.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeMovimientoPorFecha.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeSociosGeneral.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Listadoingresosyegresosporfecha.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.ListadoIngresosYEgresosvb.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorCedula.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorSocio.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Conceptos.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Consultas.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Menu.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Movimientos.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Parcial\Parcial\obj\x86\Debug\WindowsApplication1.Socios.resources
+E:\Parcial\Parcial\obj\x86\Debug\Presentacion.vbproj.GenerateResource.Cache
+E:\Parcial\Parcial\obj\x86\Debug\Parcial.exe.licenses
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\Parcial.exe
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\Parcial.xml
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\Parcial.pdb
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\bin\Debug\Parcial.exe
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\bin\Debug\Parcial.pdb
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\bin\Debug\Parcial.xml
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\bin\Debug\Logica.exe
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\bin\Debug\Logica.pdb
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\bin\Debug\Logica.xml
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListaDeMovimientosPorValor.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.Listadodecocios.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeMovimientoPorFecha.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeSociosGeneral.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.Listadoingresosyegresosporfecha.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoIngresosYEgresosvb.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorCedula.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorSocio.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.Conceptos.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.Consultas.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.Menu.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.Movimientos.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\WindowsApplication1.Socios.resources
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\EverL\Desktop\ParcialFinal\Parcial\obj\x86\Debug\Parcial.exe.licenses
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.exe
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.xml
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.pdb
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\bin\Debug\Parcial.exe
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\bin\Debug\Parcial.pdb
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\bin\Debug\Parcial.xml
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\bin\Debug\Logica.exe
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\bin\Debug\Logica.pdb
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\bin\Debug\Logica.xml
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListaDeMovimientosPorValor.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Listadodecocios.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeMovimientoPorFecha.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeSociosGeneral.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Listadoingresosyegresosporfecha.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoIngresosYEgresosvb.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorCedula.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorSocio.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Conceptos.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Consultas.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Menu.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Movimientos.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Socios.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.exe.licenses
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorConcepto.resources
+C:\Users\EverL\Desktop\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.exe
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.xml
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.pdb
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\bin\Debug\Parcial.exe
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\bin\Debug\Parcial.pdb
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\bin\Debug\Parcial.xml
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\bin\Debug\Logica.exe
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\bin\Debug\Logica.pdb
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\bin\Debug\Logica.xml
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListaDeMovimientosPorValor.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Listadodecocios.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeMovimientoPorFecha.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeSociosGeneral.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Listadoingresosyegresosporfecha.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoIngresosYEgresosvb.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorCedula.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorConcepto.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorSocio.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Conceptos.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Consultas.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Menu.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Movimientos.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Socios.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\EverL\Desktop\Programacion\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.exe.licenses
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.exe
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.xml
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.pdb
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListaDeMovimientosPorValor.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Listadodecocios.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeMovimientoPorFecha.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoDeSociosGeneral.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Listadoingresosyegresosporfecha.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.ListadoIngresosYEgresosvb.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorCedula.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorConcepto.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.MovimientosPorSocio.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Conceptos.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Consultas.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Menu.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Movimientos.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.Socios.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\WindowsApplication1.SplashScreen1.resources
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\Presentacion.vbproj.GenerateResource.Cache
+D:\Ing Sistemas\Programacion\Visual Basic\Visual 2014\Visual todo\ParcialListasFinal\Parcial\obj\x86\Debug\Parcial.exe.licenses
